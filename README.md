@@ -26,3 +26,8 @@ Plots are stored in the `plots/` folder, including:
 - Average PnL by sentiment
 - Win rate by sentiment
 
+## 📚 Libraries Used
+- pandas
+- matplotlib
+- seaborn
+- numpy
