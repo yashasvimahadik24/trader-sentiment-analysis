@@ -26,16 +26,3 @@ Plots are stored in the `plots/` folder, including:
 - Average PnL by sentiment
 - Win rate by sentiment
 
-## 🛠️ Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/yashasvimahadik24/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
-
-# Create a virtual environment and activate it
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
